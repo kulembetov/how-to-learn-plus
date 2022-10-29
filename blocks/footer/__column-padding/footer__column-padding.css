@@ -1,0 +1,7 @@
+.footer__column-padding {
+  padding-bottom: 10px;
+}
+
+.footer__column-padding:last-of-type {
+  padding-bottom: 0;
+}
